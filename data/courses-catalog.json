@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "source": "https://www.cegos.es/formacion",
+        "scraped_date": "2026-02-19",
+        "total_categories": 11,
+        "description": "Catálogo actualizado de cursos de Cegos España"
+    },
+    "categories": [
+        {
+            "name": "Liderazgo y Gestión de Equipos",
+            "url": "https://www.cegos.es/formacion/liderazgo-y-gestion-de-equipos",
+            "courses": [
+                {
+                    "title": "Curso - Nuevos mandos: gestionar y dirigir equipos nivel 1",
+                    "url": "https://www.cegos.es/formacion/liderazgo-y-gestion-de-equipos/curso-nuevos-mandos-gestionar-y-dirigir-equipos",
+                    "duration": "2 días",
+                    "price": "100 €",
+                    "target": "Dirigido a: Managers que acaban de asumir la responsabilidad de dirigir un equipo. Nuevos responsables de gestionar y dirigir un equipo de personas que quieran aumentar el rendimiento. Supervisores y Team Leaders Llámanos 91 270 51 10",
+                    "objectives": [],
+                    "program": [],
+                    "modality": "Presencial o Virtual"
+                },
+                {
+                    "title": "Curso - Mandos medios: gestionar y dirigir equipos nivel 2",
+                    "url": "https://www.cegos.es/formacion/liderazgo-y-gestion-de-equipos/curso-mandos-gestionar-y-dirigir-equipos",
+                    "duration": "3 días",
+                    "price": "550 €",
+                    "target": "Dirigido a: Managers con responsabilidad de gestionar y liderar equipos. Ejecutivos que necesiten herramientas para alinear su equipo con la estrategia corporativa. Directores que busquen desarrollar el desempeño individual y colectivo de sus equipos. Llámanos 91 270 51 10",
+                    "objectives": [],
+                    "program": [],
+                    "modality": "Presencial o Virtual"
+                },
+                {
+                    "title": "Curso - Los 4 roles esenciales del liderazgo",
+                    "url": "https://www.cegos.es/formacion/liderazgo-y-gestion-de-equipos/curso-liderazgo-4-roles-grandes-lideres",
+                    "duration": "2 días",
+                    "price": "550 €",
+                    "target": "Dirigido a: Formación de directivos y managers experimentados que quieran disponer de un marco simple y práctico que forme la base del éxito de su liderazgo. Ejecutivos que son promovidos a puestos de liderazgo y que buscan las claves para lograr la consecución de los resultados esperados. Llámanos 91 270 51 10",
+                    "objectives": [],
+                    "program": [],
+                    "modality": "Presencial"
+                },
+                {
+                    "title": "Curso - Los 7 hábitos para managers®",
+                    "url": "https://www.cegos.es/formacion/liderazgo-y-gestion-de-equipos/curso-los-7-habitos-para-managers-franklincovey",
+                    "duration": "2 días",
+                    "price": "550 €",
+                    "target": "Dirigido a: Directivos o managers que buscan mejorar sus habilidades de liderazgo y gestión de equipos. Ejecutivos aspirantes a roles de liderazgo que desean prepararse para responsabilidades futuras o interesados en desarrollar competencias clave para liderar con eficacia en entornos dinámicos. Llámanos 91 270 51 10",
+                    "objectives": [],
+                    "program": [],
+                    "modality": "Presencial"
+                },
+                {
+                    "title": "Curso - Las 6 prácticas críticas para liderar un equipo",
+                    "url": "https://www.cegos.es/formacion/liderazgo-y-gestion-de-equipos/curso-6-practicas-criticas-para-liderar-un-equipo",
+                    "duration": "1 día",
+                    "price": "690 €",
+                    "target": "Dirigido a: Nuevos managers y supervisores de primer nivel que necesitan pasar de contribuyentes individuales a managers de otros. También está dirigido a los managers que han desempeñado la función durante algún tiempo y están buscando orientación práctica y relevante sobre cómo liderar y gestionar con efectividad su equipo. Llámanos 91 270 51 10",
+                    "objectives": [],
+                    "program": [],
+                    "modality": "Presencial o Virtual"
+                }
+            ]
+        }
+    ]
+}
